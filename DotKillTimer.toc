@@ -1,0 +1,9 @@
+## Interface: 11403 
+## Title: DotKillTimer
+## Notes: DotKillTimer
+## Author: Yazpad
+## Version: 0.0.1
+## SavedVariables: dot_registry,dot_kill_settings
+
+embeds.xml
+DotKillTimer.lua
